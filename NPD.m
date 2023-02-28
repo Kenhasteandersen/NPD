@@ -1,5 +1,5 @@
 %
-% N-P model
+% N-P-D model
 %
 function res = NPD(param, tEnd)
 n = param.n;
